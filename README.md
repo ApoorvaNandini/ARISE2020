@@ -1,2 +1,2 @@
-# ARISE_2020
+# ARISE 2020
 Teaching Material
